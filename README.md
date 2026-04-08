@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Shompa%20Monowara&fontSize=70&animation=fadeIn" alt="Banner" />
+<img src="https://v-ca.vercel.app/api?type=wave&text=Shompa%20Monowara&color=36BCF7&height=250&fontSize=70" alt="Banner" />
 
-<h1>
+<h1>  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+There!;Nice+to+meet+you!;I+am+Shompa+Monowara" alt="Typing SVG" />
   </a>
