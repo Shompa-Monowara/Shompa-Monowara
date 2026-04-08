@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Shompa-Monowara/Shompa-Monowara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Shompa%20Monowara&fontSize=70&animation=fadeIn" alt="Banner" />
 
-Here are some ideas to get you started:
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+There!;Nice+to+meet+you!;I+am+Shompa+Monowara" alt="Typing SVG" />
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👩‍💻 About Me
+- 🔭 I’m currently working on building modern, responsive web applications.
+- 🌱 I’m currently learning **React** and **Next.js**.
+- 🎨 Focused on turning Figma designs into interactive reality.
+
+### 🛠 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
