@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on building modern, responsive web applications.
 - 🌱 I’m currently learning **React** and **Next.js**.
 - 🎨 Focused on turning Figma designs into interactive reality.
+- 📫 Reach me out: [nuradnanchowdhury015@gmail.com](mailto:shompadmbd@gmail.com)
 
 ### 🛠 Tech Stack:
 <p align="left">
