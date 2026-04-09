@@ -1,9 +1,11 @@
 <div align="center">
 
-![Banner](https://i.postimg.cc/TPm7stxj/banner.png)
+<p align="center">
+  <img src="https://i.postimg.cc/JhvqRZry/shompa-monowara.png" alt="Banner" style="max-width: 100%;">
+</p>
 
-<h1>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+There!;Nice+to+meet+you!;I+am+Shompa+Monowara" alt="Typing Animation" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Hello+There!;Nice+to+meet+you!;I+am+Shompa+Monowara" alt="Typing Animation" />
 </h1>
 
 </div>
