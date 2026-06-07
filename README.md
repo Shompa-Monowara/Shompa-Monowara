@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://i.postimg.cc/JhvqRZry/shompa-monowara.png" alt="Banner" style="max-width: 100%;">
+  <img src="https://i.postimg.cc/K8QNd754/gitbanner.png" alt="Banner" style="max-width: 100%;">
 </p>
 
 <h1>
