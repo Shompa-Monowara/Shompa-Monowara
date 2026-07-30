@@ -26,10 +26,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shompa-Monowara&show_icons=true&theme=tokyonight&hide_border=true" alt="Shompa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shompa-Monowara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shompa-Monowara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-stats-rho-ebon-olmbq3g9b0.vercel.app/api?username=Shompa-Monowara&show_icons=true&theme=tokyonight&hide_border=true" alt="Shompa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-rho-ebon-olmbq3g9b0.vercel.app/api/top-langs/?username=Shompa-Monowara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
